@@ -31,7 +31,7 @@ const App = () => {
 
 
     return (
-        <div className='text-center'>
+        <div className='text-center mt-[30px]'>
             <Button onclick={newNumbers}>New numbers</Button>
             <div className='flex justify-center'>
                 {
